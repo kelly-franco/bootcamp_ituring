@@ -8,19 +8,24 @@
 // o lugar que você sonha um dia conhecer
 
 let nomeVariavel 
-nomeVariavel = "Kelly"
+nomeVariavel = "Kelly" //string
 let emailVariavel 
-emailVariavel = "kellycjfranco@yahoo.com.br"
+emailVariavel = "kellycjfranco@yahoo.com.br" //string
 let profissaoVariavel
-profissaoVariavel = "Secretária"
+profissaoVariavel = "Secretária" //string
 let idadeVariavel
-idadeVariavel = "33 anos"
+idadeVariavel = "33 anos" //number
 let lugarVariavel
-lugarVariavel = "Montreal"
+lugarVariavel = "Montreal" //string
 
 console.log(nomeVariavel)
 console.log(emailVariavel)
 console.log(profissaoVariavel)
 console.log(idadeVariavel)
 console.log(lugarVariavel)
+
+
+
+
+
 
