@@ -5,27 +5,15 @@
 // seu email
 // sua profissão
 // sua idade
-// o lugar que você sonha um dia conhecer
+// o lugar que você sonha um dia conhecer //
 
-let nomeVariavel 
-nomeVariavel = "Kelly" //string
-let emailVariavel 
-emailVariavel = "kellycjfranco@yahoo.com.br" //string
-let profissaoVariavel
-profissaoVariavel = "Secretária" //string
-let idadeVariavel
-idadeVariavel = "33 anos" //number
-let lugarVariavel
-lugarVariavel = "Montreal" //string
+let nome = "Kelly Cristina"
+let email = "kellycjfranco@yahoo.com.br"
+let profissao = "Secretária"
+let idade = "33 anos"
+let lugarDosSonhos = "Montreal"
 
-console.log(nomeVariavel)
-console.log(emailVariavel)
-console.log(profissaoVariavel)
-console.log(idadeVariavel)
-console.log(lugarVariavel)
+let mensagem = "Olá, "+ nome +"! Somos aqui da agência de Turismo Ituring. Estamos te escrevendo este email, pois acabamos de confirmar as compras das passagens aereas para "+ lugarDosSonhos +". Confirma pra gente alguns dados? A sua idade é "+ idade +" você é "+ profissao +" e o seu email é "+ email +" Ficamos no aguardo. Muito obrigada e boa viagem!:D"
 
-
-
-
-
+console.log(mensagem)
 
