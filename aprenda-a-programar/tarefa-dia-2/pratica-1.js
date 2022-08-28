@@ -1,3 +1,4 @@
+// Prática - 1 
 // Preparando uma mensagem de uma agência de turismo
 // Abra o arquivo pratica-1.js com o VSCODE ou o editor de código de sua preferência.
 // Agora no arquivo pratica-1.js, declare 5 variáveis que vão armazenar os seguintes valores:
